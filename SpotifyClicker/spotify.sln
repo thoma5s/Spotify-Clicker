@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spotify clicker", "spotify clicker.csproj", "{D8ACCE80-E5F6-4987-858C-79B9583751AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8ACCE80-E5F6-4987-858C-79B9583751AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8ACCE80-E5F6-4987-858C-79B9583751AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8ACCE80-E5F6-4987-858C-79B9583751AF}.Debug|x64.ActiveCfg = Debug|x64
+		{D8ACCE80-E5F6-4987-858C-79B9583751AF}.Debug|x64.Build.0 = Debug|x64
+		{D8ACCE80-E5F6-4987-858C-79B9583751AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8ACCE80-E5F6-4987-858C-79B9583751AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8ACCE80-E5F6-4987-858C-79B9583751AF}.Release|x64.ActiveCfg = Release|x64
+		{D8ACCE80-E5F6-4987-858C-79B9583751AF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AFB5D3B-9914-4F5F-B2BD-213E199D2AF0}
+	EndGlobalSection
+EndGlobal
